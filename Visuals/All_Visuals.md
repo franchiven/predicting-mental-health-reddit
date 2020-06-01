@@ -1,3 +1,6 @@
+* auto-gen TOC:
+{:toc}
+
 # Word Clouds
 <img src = "/Visuals/png/cvec_all.png" width="750">
 <img src = "/Visuals/png/tvec_dep.png" width="750">
