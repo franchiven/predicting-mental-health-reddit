@@ -1,7 +1,7 @@
 # predicting-mental-health-reddit
 **Individual Capstone Project (5 weeks)**
 
-The goal of this project was to predict four mental health disorders (anxiety, depression, bipolar & suicide) from Reddit posts using Natural Language Processing.  
+The goal of this project was to classify four mental health disorders (anxiety, depression, bipolar & suicide) from Reddit posts using Natural Language Processing.  
 
 **Visualise the results in /Visuals/All_Visuals.md**
 
@@ -14,7 +14,7 @@ The goal of this project was to predict four mental health disorders (anxiety, d
 - [Notebook Order](#notebook-order)
 
 ## Introduction
-Mental Health is becoming more and more of a prominent issue - one in four people will be affected by a mental or neurological disorder at some point in their life. And yet, it is still a difficult subject for many to talk about. 
+Mental Health is becoming more and more of a prominent issue - one in four people will be affected by a mental or neurological disorder at some point in their life. And yet, it is still a very difficult subject for many to talk about. 
 
 Because Reddit facilitates annonomous posting, authors don't hold back about their mental health struggles; and so Reddit provides a large amount of accurate data to analyse. 
 
@@ -27,7 +27,7 @@ The cleaning of these posts was acheived using the following steps:
 - Spell checking the corpus  
 - Lemmentisation  
 
-After cleaning, around 800,000 datapoints were left; the majority class (depression) had 53% of the total datapoints whereas the minority class (bipolar) had 9%. 
+After cleaning, around 800,000 datapoints were left:
 
 Sub-Reddit | Distribution
 ------------ | -------------
