@@ -9,16 +9,16 @@ Mental Health is becoming more and more of a prominent issue - one in four peopl
 Because Reddit facilitates annonomous posting, most posters don't hold back about their mental health struggles, and so Reddit provides a large amount of accurate data to analyse. 
 
 ## Data Collection & Pre-Processing
-Luckily, there is a large dataset on Google BigQuery (fh-bigquery/reddit_posts) going back until 2015. Over a million rows were taken over a four year period
+There is a large dataset of Reddit posts on Google BigQuery (fh-bigquery/reddit_posts) going back until 2015. 
 
-The cleaning of these posts was acheived using the following steps:
+Over a million rows were taken from a four year period. The cleaning of these posts was acheived using the following steps:
 
 Removing 'deleted/removed' posts  
 Removing symbols, numbers, blank lines etc.  
 Spell checking the corpus  
 Lemmentisation  
 
-After the text had been cleaned, around 800,000 datapoints were left, the majority class (depression) had 53% of the total datapoints whereas the minority class (bipolar) had 9%. 
+After cleaning, around 800,000 datapoints were left; the majority class (depression) had 53% of the total datapoints whereas the minority class (bipolar) had 9%. 
 
 Sub-Reddit | Distribution
 ------------ | -------------
@@ -28,12 +28,12 @@ r/Anxiety | ~18%
 r/bipolar | ~9%
 
 ## Natural Langauge Processing & Modelling
-Part of Speech tagging and Sentiment Analysis (Vader) were implemented and then the models were trained using both tfidf and Word2Vec. All models beat the baseline of 53%.
+Part of Speech tagging and Sentiment Analysis (Vader) were implemented and the models were trained using both tfidf and Word2Vec on several classifiers. All models beat the baseline of 53%.
 
-<img src = "results_bar.png" width="750">
+<img src = "/Visuals/png/results_bar.png" width="750">
 
 ## Lime implementation
-The tfidf model can be explained using Lime.
+Lime shows how the tfidf model came to its prediction. The following post is interesting as 
 
-<img src = "lime.png" width="750">
+<img src = "/Visuals/png/lime.png" width="750">
 
