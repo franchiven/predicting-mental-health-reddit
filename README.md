@@ -32,7 +32,7 @@ Lemmentisation
 After the text had been cleaned, around 800,000 datapoints were left, their distributions are shown below.
 
 
-<img src = "cat_counts_bar.png" width="100">
+<img src = "cat_counts_bar.png" width="1000">
 
 
 ## Natural Langauge Processing
