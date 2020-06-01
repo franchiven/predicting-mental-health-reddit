@@ -26,7 +26,7 @@ The cleaning of these posts was acheived using the following steps:
 
 Removing 'deleted/removed' posts
 Removing symbols, numbers, blank lines etc.
-Spell checking the corpus (Reddit users tend not to spell check their posts...)
+Spell checking the corpus 
 
 
 ## Natural Langauge Processing
