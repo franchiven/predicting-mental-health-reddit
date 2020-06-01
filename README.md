@@ -10,18 +10,18 @@ Because Reddit facilitates annonomous posting, most people don't hold back when 
 The goal of this project was to predict four mental health disorders (anxiety, depression, bipolar & suicide) from Reddit  posts using Natural Language Processing.
 
 
-## Data Collection
+One option would be to scrape Reddit using PRAW - however, this is quite time consuming... 
 
-One option would be to scrape Reddit using PRAW - however, this is quite time consuming... Luckily, there is a large dataset on Google BigQuery (fh-bigquery/reddit_posts) going back until 2015. Over a million rows were taken over a four year period
+## Data Collection & Pre-Processing
 
-## Pre-Processing
+Luckily, there is a large dataset on Google BigQuery (fh-bigquery/reddit_posts) going back until 2015. Over a million rows were taken over a four year period
 
 The cleaning of these posts was acheived using the following steps:
 
-Removing 'deleted/removed' posts
-Removing symbols, numbers, blank lines etc.
-Spell checking the corpus 
-Lemmentisation
+Removing 'deleted/removed' posts  
+Removing symbols, numbers, blank lines etc.  
+Spell checking the corpus  
+Lemmentisation  
 
 After the text had been cleaned, around 800,000 datapoints were left, the majority class (depression) had 53% of the total datapoints whereas the minority class (bipolar) had 9%. 
 
@@ -42,5 +42,5 @@ Part of Speech tagging and Sentiment Analysis (Vader) were implemented and then 
 
 The tfidf model can be explained using Lime.
 
-<img src = "image.png" width="750">
+<img src = "lime.png" width="750">
 
