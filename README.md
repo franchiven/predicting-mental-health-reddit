@@ -44,6 +44,13 @@ Lime shows how the tfidf model came to its prediction. The following post is int
 
 <img src = "/Visuals/png/lime.png" width="750">
 
+## Future Work
+- Oversampling using SMOTE (NC)
+- Only use posts with a minimum number of words in it (the more words a post has the more sure the model is of its classification)
+- Try Doc2Vec implementation with sentance structure
+- Clustering
+- Predict likelyhood of an author posting on r/SuicideWatch given what they have posted in the other three subreddits. 
+
 ## Notebook Order
 1. Pre-Processing.ipynb  
 2. NLP.ipynb  
