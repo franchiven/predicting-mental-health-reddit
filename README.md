@@ -3,6 +3,20 @@
 
 The goal of this project was to predict four mental health disorders (anxiety, depression, bipolar & suicide) from Reddit posts using Natural Language Processing.
 
+## Table of Contents
+- [Introduction](#introduction)
+- [Data Collection & Pre-Processing](#data-collection---pre-processing)
+- [Natural Langauge Processing & Modelling](#natural-langauge-processing---modelling)
+- [Lime implementation](#lime-implementation)
+
+## Notebook Order
+1. Pre-Processing.ipynb  
+2. NLP.ipynb  
+3. tfidf Model.ipynb / Word2vec model.ipynb  
+4. Lime_tfidf.ipynb  
+
+See the full visual results in /Visuals/All_Visuals.md
+
 ## Introduction
 Mental Health is becoming more and more of a prominent issue - one in four people will be affected by a mental or neurological disorder at some point in their life. And yet, it is still a difficult subject for many to talk about. 
 

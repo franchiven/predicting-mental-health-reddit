@@ -1,13 +1,10 @@
 # Visualising the Results
 
 ## Table of Contents
-- [Visualising the Results](#visualising-the-results)
-  * [Table of Contents](#table-of-contents)
-  * [Word Clouds](#word-clouds)
-  * [Word2Vec Spatial Graph](#word2vec-spatial-graph)
-  * [Best Model](#best-model)
-  * [Lime](#lime)
-
+- [Word Clouds](#word-clouds)
+- [Word2Vec Spatial Graph](#word2vec-spatial-graph)
+- [Best Model](#best-model)
+- [Lime](#lime)
 
 ## Word Clouds
 <img src = "/Visuals/png/cvec_all.png" width="750">
