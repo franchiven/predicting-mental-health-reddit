@@ -1,23 +1,28 @@
-- [Word Clouds](#word-clouds)
-- [Word2Vec Spatial Graph](#word2vec-spatial-graph)
-- [Best Model](#best-model)
-- [Lime](#lime)
+# Visualising the Results
+
+## Table of Contents
+- [Visualising the Results](#visualising-the-results)
+  * [Table of Contents](#table-of-contents)
+  * [Word Clouds](#word-clouds)
+  * [Word2Vec Spatial Graph](#word2vec-spatial-graph)
+  * [Best Model](#best-model)
+  * [Lime](#lime)
 
 
-# Word Clouds
+## Word Clouds
 <img src = "/Visuals/png/cvec_all.png" width="750">
 <img src = "/Visuals/png/tvec_dep.png" width="750">
 <img src = "/Visuals/png/tvec_sw.png" width="750">
 <img src = "/Visuals/png/tvec_anx.png" width="750">
 <img src = "/Visuals/png/tvec_bip.png" width="750">
 
-# Word2Vec Spatial Graph
+## Word2Vec Spatial Graph
 <img src = "/Visuals/png/w2v_sw.png" width="750">
 
-# Best Model
+## Best Model
 <img src = "/Visuals/png/ROC.png" width="750">
 <img src = "/Visuals/png/cmat_.png" width="750">
 <img src = "/Visuals/png/cmat_norm.png" width="750">
 
-# Lime
+## Lime
 <img src = "/Visuals/png/lime.png" width="750">
