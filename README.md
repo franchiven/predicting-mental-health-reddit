@@ -1,5 +1,5 @@
 # predicting-mental-health-reddit
-General Assembly Capstone Project (6 weeks)
+**General Assembly Capstone Project (6 weeks)**
 
 
 ## Introduction
@@ -27,6 +27,12 @@ The cleaning of these posts was acheived using the following steps:
 Removing 'deleted/removed' posts
 Removing symbols, numbers, blank lines etc.
 Spell checking the corpus 
+Lemmentisation
+
+After the text had been cleaned, around 800 thousand datapoints are left. The majority class (depression) had 53% of the overall posts and the minority class (bipolar) had 9%.
+
+
+<img src = "cat_counts_bar.png"
 
 
 ## Natural Langauge Processing
