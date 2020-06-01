@@ -37,7 +37,7 @@ r/bipolar | ~9%
 ## Natural Langauge Processing & Modelling
 Part of Speech tagging and Sentiment Analysis (Vader) were implemented and the models were trained using both tfidf and Word2Vec on several classifiers. All models beat the baseline of 53%.
 
-<img src = "/Visuals/png/results_bar.png" width="750">
+<img src = "/Visuals/png/results_bar.png" width="700">
 
 ## Lime Implementation
 Lime shows how the tfidf model came to its prediction. The following post is interesting as the model is very close to predicing the post as r/SuicideWatch but correctly classifies it as r/depression. 
