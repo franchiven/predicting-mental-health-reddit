@@ -32,7 +32,7 @@ Lemmentisation
 After the text had been cleaned, around 800 thousand datapoints are left. The majority class (depression) had 53% of the overall posts and the minority class (bipolar) had 9%.
 
 
-<img src = "cat_counts_bar.png"
+<img src = "cat_counts_bar.png" >
 
 
 ## Natural Langauge Processing
