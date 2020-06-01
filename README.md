@@ -29,10 +29,10 @@ Removing symbols, numbers, blank lines etc.
 Spell checking the corpus 
 Lemmentisation
 
-After the text had been cleaned, around 800 thousand datapoints are left. The majority class (depression) had 53% of the overall posts and the minority class (bipolar) had 9%.
+After the text had been cleaned, around 800,000 datapoints were left, their distributions are shown below.
 
 
-<img src = "cat_counts_bar.png" >
+<img src = "cat_counts_bar.png" width="100">
 
 
 ## Natural Langauge Processing
