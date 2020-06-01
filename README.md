@@ -32,11 +32,13 @@ r/SuicideWatch | ~20%
 r/Anxiety | ~18%
 r/bipolar | ~9%
 
-## Natural Langauge Processing
+## Natural Langauge Processing & Modelling
 
-Part of Speech tagging and Sentiment Analysis (Vader) were implemented and then the models were trained using both tfidf and Word2Vec.
+Part of Speech tagging and Sentiment Analysis (Vader) were implemented and then the models were trained using both tfidf and Word2Vec. All models beat the baseline of 53%.
 
-<img src = "results_bar.png" width="1000">
+<img src = "results_bar.png" width="500">
 
+<img src = "ROC.png" width="500">
 
 ## Results
+
