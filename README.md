@@ -38,7 +38,9 @@ Part of Speech tagging and Sentiment Analysis (Vader) were implemented and then 
 
 <img src = "results_bar.png" width="750">
 
-<img src = "ROC.png" width="600">
+## Lime implementation
 
-## Results
+The tfidf model can be explained using Lime.
+
+<img src = "image.png" width="750">
 
