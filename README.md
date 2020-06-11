@@ -3,6 +3,8 @@
 
 The goal of this project was to classify four mental health disorders (anxiety, depression, bipolar & suicide) from Reddit posts using Natural Language Processing.  
 
+**See the code by copying the notebook URL into: https://nbviewer.jupyter.org/**
+
 **Visualise the results in /Visuals/All_Visuals.md**
 
 ## Table of Contents
