@@ -1,6 +1,10 @@
 # predicting-mental-health-reddit
 **Individual Capstone Project (5 weeks)**
 
+
+<img src = "/Visuals/png/cover.jpg" width="700">
+
+
 The goal of this project was to classify four mental health disorders (anxiety, depression, bipolar & suicide) from Reddit posts using Natural Language Processing.  
 
 **See the code by copying the notebook URL into: https://nbviewer.jupyter.org/**
