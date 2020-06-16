@@ -5,7 +5,8 @@ The goal of this project was to classify four mental health disorders (anxiety, 
 
 **See the code by copying the notebook URL into: https://nbviewer.jupyter.org/**
 
-**Visualise the results in /Visuals/All_Visuals.md**
+**Visualise the results in Here:**
+https://github.com/franchiven/predicting-mental-health-reddit/blob/master/Visuals/All_Visuals.md
 
 ## Table of Contents
 - [Introduction](#introduction)
