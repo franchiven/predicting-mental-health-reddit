@@ -1,4 +1,8 @@
 # predicting-mental-health-reddit
+
+**Update: Recent BERT implementation increased accuracy to 78%**
+
+
 **Individual Capstone Project (5 weeks)**
 
 
